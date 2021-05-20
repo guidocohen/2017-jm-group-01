@@ -1,0 +1,73 @@
+{{#partial "contenido"}}
+      <div class="card">
+         <div class="card-block">
+            <div class="container">
+               <h3 class="card-header">Indicadores Predefinidos:</h3>
+                 <table class="table table-striped table-hover table-bordered">
+                     <thead class="blue lighten-3">
+                        <tr>
+                           <th>Nombre</th>
+                           <th>Formula</th>
+                           <th>Acciones</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                     {{#each indicadoresPredefinidos}}
+                        <tr>
+                           <td>{{nombre}}</td>
+                           <td>{{formula}}</td>
+                           <td>
+	                           <a class="btn btn-default btn-xs" role="button" href="/Indicadores/{{nombre}}"><b>VER "{{nombre}}"</b></a>
+                           </td>
+                         </tr>
+                     {{/each}}
+                     <tr>
+                       <td></td>
+                       <td></td>
+                       <td></td>
+                      </tr>
+                     </tbody>
+                  </table>
+               
+				  <br/>
+				  <h3 class="card-header">Indicadores Definidos:</h3>
+				  
+                  <table class="table table-striped table-hover table-bordered">
+                     <thead class="blue lighten-3">
+                        <tr>
+                           <th>Nombre</th>
+                           <th>Formula</th>
+                           <th>Acciones</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                     {{#each indicadoresDefinidos}}
+                        <tr>
+                           <td>{{nombre}}</td>
+                           <td>{{formula}}</td>
+                           <td>
+                           <a class="btn btn-default btn-xs" role="button" href="/Indicadores/{{nombre}}"><b>VER "{{nombre}}"</b></a>
+						   <form action="/Indicadores/{{nombre}}/method=DELETE" method="POST">
+		             		  <button type="submit" class="btn btn-floating red" ><i class="fa fa-remove aria-hidden="true"></i></a>
+                           </form>
+                           </td>
+                         </tr>
+                     {{/each}}
+                     <tr>
+                       <td></td>
+                       <td></td>
+                       <td></td>
+                      </tr>
+                     </tbody>
+                  </table>
+                  <br/>
+                  <form action="/Indicadores/new" method="GET">
+                 	 <a href="/Indicadores/new" class="btn btn-primary" role="button">Agregar Indicador</a>
+                  </form>
+				  <br/>
+            </div>
+         </div>
+      </div>
+{{/partial}}
+
+{{>layout.hbs}}

@@ -1,0 +1,29 @@
+{{#partial "contenido"}}
+	 <form action="/Indicadores" method="POST">
+	     <div class="container">
+	     <div class="row">
+	        <div class="col-sm-12">
+	        
+	           <div class="md-form form-sm">
+	              <input type="text" name="nombre" id="nombre" class="form-control" required pattern="[A-Za-z]+{_,-}" title="El nombre debe contener sólo letras sin espacios" value={{nombre}}>
+	              <label for="nombre" class="control-label">Ingrese el tipo de indicador a agregar</label>
+	           </div>
+	        </div>
+	        <div class="col-sm-12">
+	           <div class="md-form form-sm">
+	              <input type="text" name="formula" id="formula" class="form-control" required pattern="[A-Za-z|0-9]+{ ,+,-,*,/,(,)}" minlength="1" value={{formula}}>
+	              <label for="formula" class="control-label">Ingrese la f&oacute;rmula correspondiente</label>
+	           </div>
+	        </div>
+	     </div>
+	     <div class="container">
+	      	<button type="submit" class="btn btn-primary">CREAR</button>
+	   </form>
+	      	
+	        <a href="/Indicadores" class="btn btn-danger" role="button">Cancelar</a>
+	     </div>
+	     </div>
+	     
+{{/partial}}
+
+{{>layout.hbs}}

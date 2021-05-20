@@ -1,0 +1,108 @@
+{{#partial "contenido"}}
+      <div class="card">
+         <div class="card-block">
+            <div class="container">
+               <h3 class="card-header">Genera tu propia metodolog&iacute;a</h3>
+               <br>
+            </div>
+            <form action="/" method="POST">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-sm-12">
+                        <div class="md-form form-sm">
+                           <input type="text" id="nombreMetodologia" class="form-control">
+                           <label for="nombreMetodologia" class="control-label">Ingrese el nombre de la metodolog&iacute;a</label>
+                        </div>
+                     </div>
+                     <div class="col-sm-12">
+                        <div class="md-form form-sm">
+                           <input type="text" id="nombreCondicion" class="form-control">
+                           <label for="nombreCondicion" class="control-label">Ingrese el nombre de la condici&oacute;n a agregar</label>
+                        </div>
+                     </div>
+                     <div class="col-sm-12">
+                        <label for="operacionIndicador" class="control-label">Elija una operacion de indicador (no obligatorio)</label>
+                        <select class="form-control">
+                           <option>OperacionIndicador 1</option>
+                           <option>OperacionIndicador 2</option>
+                           <option>OperacionIndicador 3</option>
+                        </select>
+                     </div>
+                     <div class="col-sm-12">
+                        <label for="indicador" class="control-label">Elija un indicador</label>
+                        <select class="form-control">
+                           <option>Indicador 1</option>
+                           <option>Indicador 2</option>
+                           <option>Indicador 3</option>
+                        </select>
+                     </div>
+                     <div class="col-sm-12">
+                        <label for="operacion" class="control-label">Elija una operacion</label>
+                        <select class="form-control">
+                           <option>Operacion 1</option>
+                           <option>Operacion 2</option>
+                           <option>Operacion 3</option>
+                        </select>
+                     </div>
+                  </div>
+                  <div>
+                     <label for="condiciones" class="control-label">Condiciones agregadas:</label>
+                     <table class="table table-striped table-hover table-bordered">
+                        <thead class="blue lighten-3">
+                           <tr>
+                              <th>Nombre</th>
+                              <th>Operacion de indicador</th>
+                              <th>Indicador</th>
+                              <th>Operacion</th>
+                              <th>Valor de referencia</th>
+                              <th>Periodo</th>
+                           </tr>
+                        </thead>
+                        <tbody>
+                           <tr>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+               </div>
+               <div class="container">
+                  <button type="button" class="btn btn-primary">Crear Metodolog&iacute;a</button>
+                  <button type="button" class="btn btn-secondary">Agregar Condici&oacute;n</button>
+                  <a href="Metodologias.html" class="btn btn-danger" role="button">Cancelar y Regresar</a>
+               </div>
+            </form>
+         </div>
+      </div>
+{{/partial}}
+
+{{>layout.hbs}}

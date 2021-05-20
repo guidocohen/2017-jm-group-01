@@ -1,0 +1,1706 @@
+[
+	{
+	  "nombre" : "Facebook",
+	  "edad" : 13,
+	  "cuentas" : [
+	  	{
+	      "tipo" : "EBITDA",
+	      "resultado" : 1487,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+		{
+	      "tipo" : "EBITDA",
+	      "resultado" : 8162,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 6519,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 4530,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 3162,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 1635,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 6803,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 5138,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 4168,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 2354,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 4273,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 6651,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 4688,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 550,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 1603,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 5298,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 1659,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 3561,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 7198,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 1563,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 0,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 0,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 650,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 674,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 489,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 150,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 681,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 0,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 120,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 45,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 615,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 1200,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 1894,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 756,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 318,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 1780,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 512,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 984,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 1607,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 222,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 169,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 198,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 215,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 310,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 503,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 606,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 817,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 100,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 17,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 199,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    }
+	   ]
+	},
+	{
+	  "nombre" : "Google",
+	  "edad" : 19,
+	  "cuentas" : [
+	  	{
+	      "tipo" : "EBITDA",
+	      "resultado" : 30418,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+		{
+	      "tipo" : "EBITDA",
+	      "resultado" : 24818,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 15662,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 56411,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 26551,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 16535,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 8003,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 21035,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 29844,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 16356,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 3380,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 4470,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 5560,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 6650,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 5007,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 5000,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 4321,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 4231,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 3198,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 2134,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 0,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 10,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 35,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 152,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 165,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 352,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 312,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 296,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 139,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 65,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 498,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 1925,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 564,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 1355,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 786,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 1556,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 5656,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 1656,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 987,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 565,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 222,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 111,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 656,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 165,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 98,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 654,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 198,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 88,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 96,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 265,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    }
+	   ]
+	},
+	{
+	  "nombre" : "Apple",
+	  "edad" : 41,
+	  "cuentas" : [
+	  	{
+	      "tipo" : "EBITDA",
+	      "resultado" : 73333,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+		{
+	      "tipo" : "EBITDA",
+	      "resultado" : 84505,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 5858,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 87674,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 54345,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 45212,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 31254,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 5432,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 4554,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 16475,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 6894,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 4132,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 5464,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 2131,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 46457,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 4524,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 1234,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 4321,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 4525,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 34578,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 165,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 150,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 355,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 543,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 756,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 45,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 378,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 78,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 378,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 725,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 378,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 53394,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 13844,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 2413,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 453,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 7865,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 5434,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 9632,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 7123,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 107,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 215,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 3783,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 1737,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 869,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 3678,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 3,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 7,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 546,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 377,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 542,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    }
+	   ]
+	},
+	{
+	  "nombre" : "Intel",
+	  "edad" : 49,
+	  "cuentas" : [
+	  	{
+	      "tipo" : "EBITDA",
+	      "resultado" : 21456,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+		{
+	      "tipo" : "EBITDA",
+	      "resultado" : 19956,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 19519,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 54345,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 2421,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 34512,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 21312,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 95842,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 5456,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "EBITDA",
+	      "resultado" : 78631,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 3562,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 4537,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 3789,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 2135,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 2453,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 7862,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 3453,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 372,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 876,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 34587,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 110,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 32,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 245,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 543,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 12,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 157,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 378,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 24,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 22,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 20,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 12183,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 34531,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 3778,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 5434,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 3778,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 2554,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 5434,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 3784,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 5435,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 3787,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 643,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 6786,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 345,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 78,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2013",
+	 	  	"hastaFecha" : "31/12/2013"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 534,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2012",
+	 	  	"hastaFecha" : "31/12/2012"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 544,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2011",
+	 	  	"hastaFecha" : "31/12/2011"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 78,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2010",
+	 	  	"hastaFecha" : "31/12/2010"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 99,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2009",
+	 	  	"hastaFecha" : "31/12/2009"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 254,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2008",
+	 	  	"hastaFecha" : "31/12/2008"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 453,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2007",
+	 	  	"hastaFecha" : "31/12/2007"
+	 	  }
+	    }
+	   ]
+	},
+	{
+	  "nombre" : "Dell",
+	  "edad" : 70,
+	  "cuentas" : [
+	  	{
+	      "tipo" : "EBITDA",
+	      "resultado" : 20300,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+		{
+	      "tipo" : "FDS",
+	      "resultado" : 19956,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 19519,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 54345,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    }
+	    
+	   ]
+	},
+	{
+	  "nombre" : "Amazon",
+	  "edad" : 30,
+	  "cuentas" : [
+	  	{
+	      "tipo" : "EBITDA",
+	      "resultado" : 25210,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+		{
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 19200,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 25768,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FDS",
+	      "resultado" : 32500,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    }
+	    
+	   ]
+	}
+  ]
+
+

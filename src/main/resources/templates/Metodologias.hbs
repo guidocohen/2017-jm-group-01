@@ -1,0 +1,66 @@
+{{#partial "contenido"}}
+      <div class="card">
+      <div class="card-block">
+         <div class="container">
+            <h3 class="card-header">Metodolog&iacute;as</h3>
+            <br>
+         </div>
+         <form action="/" method="GET">
+            <div class="container">
+               <div class="row">
+                  <div class="col-sm-12">
+                     <label for="metodologias" class="control-label">Elija una metodolog&iacute;a</label>
+                     <select class="form-control">
+                        <option>Metodolog&iacute;a 1</option>
+                        <option>Metodolog&iacute;a 2</option>
+                        <option>Metodolog&iacute;a 3</option>
+                     </select>
+                  </div>
+               </div>
+               <div class="container">
+               	  <form action="/Condiciones" method="GET">
+                  <a href="/Condiciones" class="btn btn-primary" role="button">Crear nueva Metodolog&iacute;a</a>
+                  </form>
+                  <button type="button" class="btn btn-default">Evaluar Metodolog&iacute;a</button>
+               </div>
+               <div>
+                  <label for="empresas" class="control-label">Empresas evaluadas por metodolog&iacute;a seleccionada</label>
+                  <table class="table table-striped table-hover table-bordered">
+                     <thead class="blue lighten-3">
+                        <tr>
+                           <th>Nombre</th>
+                           <th>Conviene invertir</th>
+                           <th>Cantidad de condiciones OK</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td></td>
+                           <td></td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td></td>
+                           <td></td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td></td>
+                           <td></td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td></td>
+                           <td></td>
+                           <td></td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+         </form>
+      </div>
+      </div>
+{{/partial}}
+
+{{>layout.hbs}}

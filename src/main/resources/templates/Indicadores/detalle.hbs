@@ -1,0 +1,15 @@
+{{#partial "contenido"}}
+            <div class="container">
+               <h3 class="card-header">Indicador: <strong>{{indicadorAMostrar.nombre}}</strong></h3>
+			   <h3 class="card-header">F&oacute;rmula: <strong>{{indicadorAMostrar.formula}} </strong></h3>
+				  <br/>
+				  <form action="/Indicadores/{{indicadorAMostrar.nombre}}/evaluar" method="GET">
+					  {{>EmpresaYAnio-TextBox.hbs}}
+					  <button type="submit" class="btn btn-primary">EVALUAR</button>
+					 
+				  </form>
+				<h3 class="card-header">RESULTADO: <strong>{{indicadorAMostrar.resultado}}</strong></h3>
+            </div>
+{{/partial}}
+
+{{>layout.hbs}}

@@ -1,0 +1,49 @@
+{{#partial "contenido"}}
+      <div class="card">
+         <div class="card-block">
+            <div class="container">
+               <h3 class="card-header"> Empresas</h3>
+               <br>
+            </div>
+            <div class="container">
+               <div class="container">
+                  <form action="/Empresas/Cuentas" method="GET">
+					 {{>EmpresaYAnio-TextBox.hbs}}
+                     <button type="submit" class="btn btn-primary">Ver Cuentas</button>
+                  </form>
+               </div>
+               <div>
+                  <label for="cuentas" class="control-label">Lista de cuentas:</label>
+                  <table class="table table-striped table-hover table-bordered">
+                     <thead class="blue lighten-3">
+                        <tr>
+                           <th>Tipo</th>
+                           <th>Resultado</th>
+                           <th>Fecha desde</th>
+                           <th>Fecha hasta</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        {{#each cuentas}}
+                        <tr>
+                           <td>{{tipo}}</td>
+                           <td>{{resultado}}</td>
+                           <td>{{periodo.desdeFecha}}</td>
+                           <td>{{periodo.hastaFecha}}</td>
+                        </tr>
+                        {{/each}} 
+                        <tr>
+                           <td></td>
+                           <td></td>
+                           <td></td>
+                           <td></td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+         </div>
+      </div>
+{{/partial}}
+
+{{>layout.hbs}}

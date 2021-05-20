@@ -1,0 +1,17 @@
+{{#partial "contenido"}}
+Evaluacion ordenada.. es como golf, menos puntos es mejor ;):
+<ul class="list-group">
+    {{#each this}}
+    <li class="list-group-item">
+        <span class="badge badge-pill badge-info">{{sumadorDePosicion}}</span> {{empresa.nombre}}<br/>
+        <em>¿Es conveniente invertir?</em>: 
+        {{#if esConvenienteInvertir}} 
+            <i class="fa fa-check-circle" style="color:green"></i>
+        {{else}} 
+            <i class="fa fa-ban" style="color:red"></i>
+        {{/if}}
+    </li>
+    {{/each}}
+</ul>
+{{/partial}}
+{{>layout.hbs}}

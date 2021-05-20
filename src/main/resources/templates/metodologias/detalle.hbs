@@ -1,0 +1,21 @@
+{{#partial "contenido"}}
+<h3 class="card-header"><strong>Nombre:</strong> {{metodologia.nombre}}</h3>
+<ul class="list-group">
+{{#each metodologia.condiciones}}
+  <li class="list-group-item">{{nombre}}</li>
+{{/each}}
+</ul>
+<strong>Seleccione alguna de las siguientes empresas para evaluarlas</strong>
+<form method="get" action="/metodologias/{{metodologia.id}}/evaluar">
+    <div class="btn-group" data-toggle="buttons">
+        {{#each empresas}}
+        <label class="btn btn-default btn-sm">
+            <input type="checkbox" autocomplete="off" name="empresa" value="{{id}}"> {{nombre}}
+        </label>
+        {{/each}}
+    </div>
+    <br/>
+    <input type="submit" value="evaluar" class="btn btn-success"/>
+</form>
+{{/partial}}
+{{>layout.hbs}}

@@ -1,0 +1,16 @@
+[
+	{
+	  "nombre" : "Facebook",
+	  "edad" : 13,
+	  "cuentas" : [
+	  	{
+	      "tipo" : "EBITDA",
+	      "resultado" : 1487,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	   ]
+	}
+}

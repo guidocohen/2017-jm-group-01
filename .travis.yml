@@ -1,0 +1,19 @@
+language: java
+
+jdk:
+  - oraclejdk8
+
+notifications:
+
+  #slack:
+    #rooms:
+      #- dds-jv-utn-ba:NSgEDJ0UiJCBmUhm9rRRQkoL#jm-group-07
+    #on_success: change # default: always
+    #on_failure: always # default: always
+
+  email:
+    recipients:
+      - cb.franco8@gmail.com
+      - guidocohen@yahoo.com.ar
+      - leofs_94@hotmail.com
+      - isauri.dds@goat.si

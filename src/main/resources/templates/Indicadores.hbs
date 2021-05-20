@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<html lang="es">
+   {{>head.hbs}}
+   <body>
+      <header>
+ 		{{>navBar.hbs}}
+      </header>
+      <h1 class="animated bounceIn">¿D&oacute;nde invierto?</h1>
+      <div class="card">
+         <div class="card-block">
+            <div class="container">
+               <h3 class="card-header">Indicadores para la empresa: {{empresa}}</h3>
+				  <br/>
+                  <form action="/mostrarIndicadores" method="GET">
+                  <button type="button" class="btn btn-primary">Ver Indicadores</button>
+                  </form>
+				  <br/>
+                  <table class="table table-striped table-hover table-bordered">
+                     <thead class="blue lighten-3">
+                        <tr>
+						   <th>Tipo</th>
+                           <th>Nombre</th>
+                           <th>Formula</th>
+						   <th class="red-text"><b>ELIMINAR</b></th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td></td>
+                           <td></td>
+						   <td></td>
+                           <td>
+                           <form action="/BajaIndicador" method="POST">
+                           <a class="btn-floating red"><i class="fa fa-remove" aria-hidden="true"></i></a>
+                           </form>
+                           </td>
+                           </tr>
+                        <tr>
+ 						   <td></td>
+                           <td></td>
+                           <td></td>
+                           <td>
+                           <form action="/BajaIndicador" method="POST">
+                           <a class="btn-floating red"><i class="fa fa-remove" aria-hidden="true"></i></a>
+                           </form>
+                           </td>
+                           </tr>
+                        <tr>
+                           <td></td>
+                           <td></td>
+                           <td></td>
+                           <td>
+                           <form action="/BajaIndicador" method="POST">
+                           <a class="btn-floating red"><i class="fa fa-remove" aria-hidden="true"></i></a>
+                           </form>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <br/>
+                  <form action="/AgregarIndicador" method="GET">
+                  <a href="/AgregarIndicador" class="btn btn-primary" role="button">Agregar Indicador</a>
+                  </form>
+				  <br/>
+            </div>
+         </div>
+      </div>
+      {{>javaScript.hbs}}
+   </body>
+   {{>footer.hbs}}
+</html>

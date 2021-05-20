@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html lang="es">
+   {{>head.hbs}}
+   <body>
+      <header>
+ 		{{>navBar.hbs}}
+      </header>
+      <h1 class="animated bounceIn">¿D&oacute;nde invierto?</h1>
+	     <div class="container">
+	     <div class="row">
+	        <div class="col-sm-12">
+	           <div class="md-form form-sm">
+	              <input type="text" id="tipo" class="form-control">
+	              <label for="tipo" class="control-label">Ingrese el tipo de indicador a agregar</label>
+	           </div>
+	        </div>
+	        <div class="col-sm-12">
+	           <div class="md-form form-sm">
+	              <input type="text" id="formula" class="form-control">
+	              <label for="formula" class="control-label">Ingrese la formula correspondiente</label>
+	           </div>
+	        </div>
+	     </div>
+	     <div class="container">
+            <form action="/altaIndicador" method="POST">
+	        <button type="button" class="btn btn-primary">Agregar Indicador</button>
+	        <a href="/Indicadores" class="btn btn-danger" role="button">Cancelar</a>
+	     </div>
+	     </div>
+      {{>javaScript.hbs}}
+   </body>
+   {{>footer.hbs}}
+</html>

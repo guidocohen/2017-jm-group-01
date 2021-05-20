@@ -1,0 +1,14 @@
+/target/
+/bin/
+.classpath
+
+.project
+
+.settings
+/nbactions.xml
+/nb-configuration.xml
+/nbproject/
+
+/src/test/resources/writeTest.json
+/src/test/resources/writeTest.xml
+/src/test/resources/indicadoresTest.json

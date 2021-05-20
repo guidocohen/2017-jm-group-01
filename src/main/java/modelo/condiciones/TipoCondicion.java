@@ -1,0 +1,5 @@
+package modelo.condiciones;
+
+public enum TipoCondicion {
+	LONGEVIDAD, LONGEVIDAD_PRIORITARIA, LONGEVIDAD_TAXATIVA, MINIMIZAR_DEUDA, MAXIMIZAR_ROE, MARGEN_CC;
+}

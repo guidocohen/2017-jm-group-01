@@ -1,0 +1,86 @@
+[
+	{
+	  "nombre" : "Apple",
+	  "edad" : 41,
+	  "cuentas" : [
+	  	{
+	      "tipo" : "EBITDA",
+	      "resultado" : 84505,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+		{
+	      "tipo" : "EBITDA",
+	      "resultado" : 73333,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 21120,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 13844,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2014",
+	 	  	"hastaFecha" : "31/12/2014"
+	 	  }
+	    },
+	    {
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 53394,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    }
+	   ]
+	},
+	{
+	  "nombre" : "Intel",
+	  "edad" : 49,
+	  "cuentas" : [
+	  	{
+	      "tipo" : "EBITDA",
+	      "resultado" : 21459,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+		{
+	      "tipo" : "FREE_CASH_FLOW",
+	      "resultado" : 12183,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2015",
+	 	  	"hastaFecha" : "31/12/2015"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_CONTINUAS",
+	      "resultado" : 3562,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    },
+	    {
+	      "tipo" : "INO_DISCONTINUAS",
+	      "resultado" : 110,
+	 	  "periodo" : {
+	 	  	"desdeFecha" : "01/01/2016",
+	 	  	"hastaFecha" : "31/12/2016"
+	 	  }
+	    }
+	   ]
+	}
+  ]

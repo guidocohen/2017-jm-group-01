@@ -1,0 +1,24 @@
+{{#partial "contenido"}}
+<table class="table table-striped table-hover table-bordered">
+<thead>
+    <tr>
+        <th>Nombre</th>
+        <th>Condiciones</th>
+        <th>Evaluar</th>
+    </tr>
+</thead>
+{{#each this}}
+    <tr>
+        <td>{{nombre}}</td>
+        <td>
+            {{#each condiciones}}
+                {{nombre}} <br/>
+            {{/each}}
+        </td>
+        <td><a title="Evaluar metodologia" href="/metodologias/{{this.id}}"><i class="fa fa-external-link-square fa-2x"> </i></a></td>
+    </tr>
+{{/each}}
+</table>
+{{/partial}}
+{{>layout.hbs}}
+

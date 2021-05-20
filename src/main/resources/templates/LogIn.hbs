@@ -1,0 +1,37 @@
+{{#partial "contenido"}}
+      <div class="card">
+         <div class="card-block">
+            <div class="container">
+               <h3 class="card-header"> ¡Bienvenido! Identif&iacute;quese para continuar</h3>
+            </div>
+            <form name ="login" action="/login/" method="POST">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-sm-12">
+                        <br>
+                        <div class="md-form">
+                           <i class="fa fa-user prefix grey-text"></i>
+                           <input type="text" name="user" id="orangeForm-name" class="form-control">
+                           <label for="orangeForm-name">Usuario</label>
+                        </div>
+                     </div>
+                     <div class="col-sm-12">
+                        <br>
+                     </div>
+                     <div class="col-sm-12 md-form">
+                        <i class="fa fa-lock prefix"></i>
+                        <input type="password" name="password" id="form10" class="form-control validate">
+                        <label for="form10" data-error="wrong" data-success="right">&nbsp;&nbsp; Contrase&ntilde;a</label>
+                     </div>
+                  </div>
+               </div>
+               <br>
+               <div class="container">
+                  <input class="btn btn-primary" type="submit" value="INGRESAR">
+               </div>
+            </form>
+         </div>
+      </div>
+{{/partial}}
+
+{{>layoutLogin.hbs}}

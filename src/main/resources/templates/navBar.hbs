@@ -1,0 +1,32 @@
+ <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-indigo justify-content-between">
+    <a class="navbar-brand" href=""><strong></strong></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+       <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+             <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <div class="btn-group">
+          <li class="nav-item">
+             <a class="nav-link" href="/Empresas">M&oacute;dulo Empresas</a>
+          </li>
+          <li class="nav-item">
+             <form action="/Indicadores" method="GET">
+             <a class="nav-link" href="/Indicadores">M&oacute;dulo Indicadores</a>
+             </form>
+          </li>
+          <li class="nav-item">
+          	  <form action="/Metodologias" method="GET">
+              <a class="nav-link" href="/metodologias">M&oacute;dulo Metodologias</a>
+           	  </form>
+          </li>
+       </ul>
+       	  <form class="form-inline" action="/LogIn" method="GET">
+          <a class="nav-link btn btn-outline-success btn-sm my-0" type="submit" href="/LogIn">LogIn</a>
+          </form>
+    </div>
+ </nav>
+ <main class="text-center py-5"></main>
+ 
